@@ -1,5 +1,5 @@
-# Projet de CV numérique / Resumé with github.io page
-## WIP
+# WIP
+## Projet de CV numérique / Resumé with github.io page
 ### Contenu du repository / Contents of repository
 * images
 * index.html
