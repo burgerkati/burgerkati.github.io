@@ -1,8 +1,7 @@
 # WIP
-### Projet de CV numérique responsive / Responsive résumé with github.io page
-#### Contenu du repository / Contents of repository
-* images
+### Projet de CV numérique responsive | Responsive resumé with github.io page
+#### Contenu du repository | Contents of repository
+* assets/style.css  
 * index.html
-* style.css
 ##### Framework
 * Bootstrap 4.6.0
